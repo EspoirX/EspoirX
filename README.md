@@ -1,7 +1,7 @@
 ### Hi there 👋
 
- Hey , I’m Espoir , make a friend？
-- 📫 How to reach me: 386707112@qq.com
+ Hey , I’m Espoir , make a friend？  
+ 📫 How to reach me: 386707112@qq.com
 
 <!--
 **EspoirX/EspoirX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
