@@ -1,40 +1,27 @@
-### Hi there 👋
+### Hi <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width="30px">
+<br/>
 
- Hey , I’m Espoir , make a friend？  
- 📫 How to reach me: 386707112@qq.com
+I'm [Espoir](https://juejin.cn/user/729731449237613), a **[android developer](https://github.com/EspoirX)** 👨🏻‍💻  make a friend？ I’m also an **Open-Source** enthusiast with all of my projects open-sourced on [Github](https://github.com/EspoirX).
+<br/>
+<br/>
 
-<!--
-**EspoirX/EspoirX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="coding User Image" src="https://c-ssl.duitang.com/uploads/item/201703/10/20170310192847_dzJyu.thumb.700_0.gif" height="180" />
 
-Here are some ideas to get you started:
+- 🗼 Living in **GuangDong, GaungZhou**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Currently Working at YY
 
-### Github State
+- 👍 Music and Gaming Cat  🎵 🎮🐱
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EspoirX&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+- ✈️ Open to Remote Job Opportunities 🍻
 
+- 👨 like to make friends 👬
 
-<a href="https://github.com/EspoirX/StarrySky">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EspoirX&repo=StarrySky&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
+- 📫 How to reach me: 386707112@qq.com
+<br/>
 
-<a href="https://github.com/EspoirX/EfficientAdapter">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EspoirX&repo=EfficientAdapter&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
+### 📈 GitHub Stats
 
-<a href="https://github.com/EspoirX/OptimusAsyncTask">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EspoirX&repo=OptimusAsyncTask&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
+[![Espoir's github stats](https://github-readme-stats.vercel.app/api?username=EspoirX&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EspoirX&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/EspoirX/EasyMvp">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EspoirX&repo=EasyMvp&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
