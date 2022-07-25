@@ -20,6 +20,12 @@ I'm [Espoir](https://juejin.cn/user/729731449237613), a **[android developer](ht
 - 📫 How to reach me: 386707112@qq.com
 <br/>
 
++ Repo:
+  - [【StarrySky】让你舒心的播放器api封装](https://github.com/EspoirX/StarrySky)
+  - [【OptimusAsyncTask】基于 kotlin Channel 的优先级异步任务队列](https://github.com/EspoirX/OptimusAsyncTask)
+  - [【KvPref】基于属性委托的 key-value 方式存储封装](https://github.com/EspoirX/KvPref)
+  - [【ImageUploadManager】基于 Flow 的多线程并行通用图片上传框架](https://github.com/EspoirX/ImageUploadManager)
+
 ### 📈 GitHub Stats
 
 [![Espoir's github stats](https://github-readme-stats.vercel.app/api?username=EspoirX&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
