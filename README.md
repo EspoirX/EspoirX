@@ -10,8 +10,6 @@ I'm [Espoir](https://juejin.cn/user/729731449237613), a **[android developer](ht
 
 - 🗼 Living in **GuangDong, GaungZhou**
 
-- 👨‍💻 Currently Working at YY
-
 - 👍 Music and Gaming Cat  🎵 🎮🐱
 
 - ✈️ Open to Remote Job Opportunities 🍻
