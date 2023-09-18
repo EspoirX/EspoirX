@@ -6,9 +6,7 @@
 
 I'm [Espoir](https://juejin.cn/user/729731449237613), a **[android developer](https://github.com/EspoirX)** 👨🏻‍💻  make a friend？ I’m also an **Open-Source** enthusiast with all of my projects open-sourced on [Github](https://github.com/EspoirX).
 <br/>
-<br/> 
-
-失业了，有工作介绍吗？
+<br/>  
 
 - 🗼 Living in **GuangDong, GaungZhou**
 
